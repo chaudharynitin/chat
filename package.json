@@ -1,0 +1,25 @@
+{
+  "name": "autobot",
+  "version": "1.0.0",
+  "description": "test bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "start bot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "test"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "test",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "botbuilder": "^3.11.0",
+    "botbuilder-cognitiveservices": "^1.1.0",
+    "dotenv-extended": "^2.0.1",
+    "restify": "^6.3.1"
+  }
+}
